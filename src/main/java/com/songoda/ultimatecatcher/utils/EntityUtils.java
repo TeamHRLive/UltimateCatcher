@@ -1,7 +1,7 @@
-package com.craftaro.ultimatecatcher.utils;
+package com.songoda.ultimatecatcher.utils;
 
 import com.craftaro.core.nms.Nms;
-import com.craftaro.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.UltimateCatcher;
 import com.craftaro.core.hooks.EntityStackerManager;
 import com.craftaro.core.nms.nbt.NBTEntity;
 import com.craftaro.core.third_party.de.tr7zw.nbtapi.NBTItem;

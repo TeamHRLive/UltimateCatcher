@@ -1,4 +1,4 @@
-package com.craftaro.ultimatecatcher.egg;
+package com.songoda.ultimatecatcher.egg;
 
 import java.util.List;
 

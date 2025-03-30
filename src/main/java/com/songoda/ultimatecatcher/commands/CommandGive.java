@@ -1,9 +1,9 @@
-package com.craftaro.ultimatecatcher.commands;
+package com.songoda.ultimatecatcher.commands;
 
 import com.craftaro.core.commands.AbstractCommand;
 import com.craftaro.core.utils.PlayerUtils;
-import com.craftaro.ultimatecatcher.UltimateCatcher;
-import com.craftaro.ultimatecatcher.egg.CEgg;
+import com.songoda.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.egg.CEgg;
 import org.bukkit.Bukkit;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;

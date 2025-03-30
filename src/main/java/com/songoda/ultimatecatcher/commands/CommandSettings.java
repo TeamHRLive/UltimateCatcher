@@ -1,9 +1,9 @@
-package com.craftaro.ultimatecatcher.commands;
+package com.songoda.ultimatecatcher.commands;
 
 import com.craftaro.core.commands.AbstractCommand;
 import com.craftaro.core.configuration.editor.PluginConfigGui;
 import com.craftaro.core.gui.GuiManager;
-import com.craftaro.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.UltimateCatcher;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 

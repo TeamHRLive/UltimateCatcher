@@ -1,9 +1,9 @@
-package com.craftaro.ultimatecatcher.settings;
+package com.songoda.ultimatecatcher.settings;
 
 import com.craftaro.core.configuration.Config;
 import com.craftaro.core.configuration.ConfigSetting;
 import com.craftaro.core.hooks.EconomyManager;
-import com.craftaro.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.UltimateCatcher;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

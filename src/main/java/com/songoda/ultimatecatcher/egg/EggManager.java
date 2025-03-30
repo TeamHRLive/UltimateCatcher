@@ -1,7 +1,7 @@
-package com.craftaro.ultimatecatcher.egg;
+package com.songoda.ultimatecatcher.egg;
 
 import com.craftaro.core.configuration.Config;
-import com.craftaro.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.UltimateCatcher;
 import org.bukkit.configuration.ConfigurationSection;
 
 import java.util.ArrayDeque;

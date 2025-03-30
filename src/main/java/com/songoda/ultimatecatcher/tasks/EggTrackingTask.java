@@ -1,12 +1,12 @@
-package com.craftaro.ultimatecatcher.tasks;
+package com.songoda.ultimatecatcher.tasks;
 
 import com.craftaro.core.compatibility.CompatibleParticleHandler;
 import com.craftaro.third_party.com.cryptomorin.xseries.XMaterial;
 import com.craftaro.core.third_party.de.tr7zw.nbtapi.NBTItem;
 import com.craftaro.third_party.com.cryptomorin.xseries.XSound;
-import com.craftaro.ultimatecatcher.UltimateCatcher;
-import com.craftaro.ultimatecatcher.utils.EntityUtils;
-import com.craftaro.ultimatecatcher.utils.OldEntityUtils;
+import com.songoda.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.utils.EntityUtils;
+import com.songoda.ultimatecatcher.utils.OldEntityUtils;
 import org.bukkit.ChatColor;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Entity;

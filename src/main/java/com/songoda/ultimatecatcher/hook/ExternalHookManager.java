@@ -1,8 +1,8 @@
-package com.craftaro.ultimatecatcher.hook;
+package com.songoda.ultimatecatcher.hook;
 
-import com.craftaro.ultimatecatcher.UltimateCatcher;
-import com.craftaro.ultimatecatcher.hook.hooks.GeneralHook;
-import com.craftaro.ultimatecatcher.hook.hooks.WorldGuardHook;
+import com.songoda.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.hook.hooks.GeneralHook;
+import com.songoda.ultimatecatcher.hook.hooks.WorldGuardHook;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 

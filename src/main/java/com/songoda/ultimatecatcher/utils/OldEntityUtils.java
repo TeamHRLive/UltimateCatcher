@@ -1,4 +1,4 @@
-package com.craftaro.ultimatecatcher.utils;
+package com.songoda.ultimatecatcher.utils;
 
 import com.craftaro.third_party.com.cryptomorin.xseries.XMaterial;
 import com.google.gson.JsonObject;

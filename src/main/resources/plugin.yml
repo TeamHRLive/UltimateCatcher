@@ -1,7 +1,7 @@
 name: UltimateCatcher
 description: UltimateCatcher
 version: maven-version-number
-main: com.craftaro.ultimatecatcher.UltimateCatcher
+main: com.songoda.ultimatecatcher.UltimateCatcher
 softdepend: [UltimateStacker, WorldGuard]
 author: craftaro
 api-version: 1.13

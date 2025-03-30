@@ -1,7 +1,7 @@
-package com.craftaro.ultimatecatcher.commands;
+package com.songoda.ultimatecatcher.commands;
 
 import com.craftaro.core.commands.AbstractCommand;
-import com.craftaro.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.UltimateCatcher;
 import org.bukkit.command.CommandSender;
 
 import java.util.List;

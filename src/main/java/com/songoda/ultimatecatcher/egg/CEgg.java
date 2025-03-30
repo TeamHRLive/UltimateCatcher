@@ -1,12 +1,11 @@
-package com.craftaro.ultimatecatcher.egg;
+package com.songoda.ultimatecatcher.egg;
 
 import com.craftaro.third_party.com.cryptomorin.xseries.XMaterial;
-import com.craftaro.ultimatecatcher.settings.Settings;
-import com.craftaro.core.compatibility.CompatibleMaterial;
+import com.songoda.ultimatecatcher.settings.Settings;
 import com.craftaro.core.locale.Message;
 import com.craftaro.core.third_party.de.tr7zw.nbtapi.NBTItem;
 import com.craftaro.core.utils.TextUtils;
-import com.craftaro.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.UltimateCatcher;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 

@@ -1,6 +1,6 @@
-package com.craftaro.ultimatecatcher.hook.hooks;
+package com.songoda.ultimatecatcher.hook.hooks;
 
-import com.craftaro.ultimatecatcher.hook.ExternalHook;
+import com.songoda.ultimatecatcher.hook.ExternalHook;
 import com.craftaro.core.hooks.ProtectionManager;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;

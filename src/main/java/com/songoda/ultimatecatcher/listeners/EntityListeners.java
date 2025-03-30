@@ -1,10 +1,10 @@
-package com.craftaro.ultimatecatcher.listeners;
+package com.songoda.ultimatecatcher.listeners;
 
 import com.craftaro.core.compatibility.CompatibleHand;
 import com.craftaro.core.third_party.de.tr7zw.nbtapi.NBTItem;
 import com.craftaro.third_party.com.cryptomorin.xseries.XMaterial;
-import com.craftaro.ultimatecatcher.UltimateCatcher;
-import com.craftaro.ultimatecatcher.egg.EggHandler;
+import com.songoda.ultimatecatcher.UltimateCatcher;
+import com.songoda.ultimatecatcher.egg.EggHandler;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
