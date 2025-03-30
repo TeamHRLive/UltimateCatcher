@@ -1,8 +1,8 @@
 package com.songoda.ultimatecatcher.listeners;
 
-import com.craftaro.core.compatibility.CompatibleHand;
-import com.craftaro.core.third_party.de.tr7zw.nbtapi.NBTItem;
-import com.craftaro.third_party.com.cryptomorin.xseries.XMaterial;
+import com.songoda.core.compatibility.CompatibleHand;
+import com.songoda.core.third_party.de.tr7zw.nbtapi.NBTItem;
+import com.songoda.third_party.com.cryptomorin.xseries.XMaterial;
 import com.songoda.ultimatecatcher.UltimateCatcher;
 import com.songoda.ultimatecatcher.egg.EggHandler;
 import org.bukkit.Bukkit;

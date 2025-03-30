@@ -1,10 +1,10 @@
 package com.songoda.ultimatecatcher.utils;
 
-import com.craftaro.core.nms.Nms;
+import com.songoda.core.nms.Nms;
 import com.songoda.ultimatecatcher.UltimateCatcher;
-import com.craftaro.core.hooks.EntityStackerManager;
-import com.craftaro.core.nms.nbt.NBTEntity;
-import com.craftaro.core.third_party.de.tr7zw.nbtapi.NBTItem;
+import com.songoda.core.hooks.EntityStackerManager;
+import com.songoda.core.nms.nbt.NBTEntity;
+import com.songoda.core.third_party.de.tr7zw.nbtapi.NBTItem;
 import org.bukkit.Location;
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.LivingEntity;

@@ -8,7 +8,7 @@ public class WorldGuardHook implements ExternalHook {
 
     @Override
     public boolean shouldStopCapture(Player attemptingPlayer, Entity entityToCapture) {
-        return !com.craftaro.core.hooks.WorldGuardHook.isBuildAllowed(attemptingPlayer, entityToCapture.getLocation());
+        return !com.songoda.core.hooks.WorldGuardHook.isBuildAllowed(attemptingPlayer, entityToCapture.getLocation());
     }
 
 }

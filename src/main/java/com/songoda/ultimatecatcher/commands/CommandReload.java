@@ -1,6 +1,6 @@
 package com.songoda.ultimatecatcher.commands;
 
-import com.craftaro.core.commands.AbstractCommand;
+import com.songoda.core.commands.AbstractCommand;
 import com.songoda.ultimatecatcher.UltimateCatcher;
 import org.bukkit.command.CommandSender;
 

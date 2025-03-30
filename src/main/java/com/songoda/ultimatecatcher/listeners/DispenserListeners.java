@@ -1,7 +1,7 @@
 package com.songoda.ultimatecatcher.listeners;
 
 import com.songoda.ultimatecatcher.settings.Settings;
-import com.craftaro.core.third_party.de.tr7zw.nbtapi.NBTItem;
+import com.songoda.core.third_party.de.tr7zw.nbtapi.NBTItem;
 import com.songoda.ultimatecatcher.UltimateCatcher;
 import com.songoda.ultimatecatcher.utils.EntityUtils;
 import com.songoda.ultimatecatcher.utils.OldEntityUtils;

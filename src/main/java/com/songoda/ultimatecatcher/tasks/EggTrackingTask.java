@@ -1,9 +1,9 @@
 package com.songoda.ultimatecatcher.tasks;
 
-import com.craftaro.core.compatibility.CompatibleParticleHandler;
-import com.craftaro.third_party.com.cryptomorin.xseries.XMaterial;
-import com.craftaro.core.third_party.de.tr7zw.nbtapi.NBTItem;
-import com.craftaro.third_party.com.cryptomorin.xseries.XSound;
+import com.songoda.core.compatibility.CompatibleParticleHandler;
+import com.songoda.third_party.com.cryptomorin.xseries.XMaterial;
+import com.songoda.core.third_party.de.tr7zw.nbtapi.NBTItem;
+import com.songoda.third_party.com.cryptomorin.xseries.XSound;
 import com.songoda.ultimatecatcher.UltimateCatcher;
 import com.songoda.ultimatecatcher.utils.EntityUtils;
 import com.songoda.ultimatecatcher.utils.OldEntityUtils;

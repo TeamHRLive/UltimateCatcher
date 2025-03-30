@@ -1,6 +1,6 @@
 package com.songoda.ultimatecatcher.egg;
 
-import com.craftaro.core.configuration.Config;
+import com.songoda.core.configuration.Config;
 import com.songoda.ultimatecatcher.UltimateCatcher;
 import org.bukkit.configuration.ConfigurationSection;
 
