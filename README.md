@@ -33,11 +33,11 @@ create a thread over on [our Discord server][Discord invite].
 
 
 [Plugin page]: https://songoda.com/product/18
-[Plugin wiki]: https://songoda.notion.site/UltimateCatcher-ad31e98e1fa7479bb7f9460d2eccbd84
+[Plugin wiki]: https://wiki.songoda.com/UltimateCatcher-1130f108970281f2b2c8e089490512fa
 [Discord invite]: https://discord.gg/7TXM8xr2Ng
 
 [Discord shield]: https://img.shields.io/discord/1214289374506917889?color=5865F2&label=Discord&logo=discord&logoColor=5865F2
-[Latest version shield]: https://img.shields.io/badge/dynamic/xml?style=flat&color=blue&logo=github&logoColor=white&label=Latest&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcraftaro%2FUltimateCatcher%2Fmaster%2Fpom.xml&query=%2F*%5Blocal-name()%3D'project'%5D%2F*%5Blocal-name()%3D'version'%5D
+[Latest version shield]: https://img.shields.io/badge/dynamic/xml?style=flat&color=blue&logo=github&logoColor=white&label=Latest&url=https%3A%2F%2Fraw.githubusercontent.com%2FSongoda-Plugins%2FUltimateCatcher%2Fmaster%2Fpom.xml&query=%2F*%5Blocal-name()%3D'project'%5D%2F*%5Blocal-name()%3D'version'%5D
 
 [bStats page]: https://bstats.org/plugin/bukkit/UltimateCatcher/4802
 [bStats shield]: https://img.shields.io/bstats/servers/4802?label=Servers
